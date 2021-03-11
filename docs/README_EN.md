@@ -37,7 +37,7 @@ If you need to export the data of multiple accounts, you can click the plus butt
 
 Then switch to the new account of the game, open the wish history, and click the "load data" button in the tool.
 
-## Devlopment
+## Development
 
 ```
 # install node modules
